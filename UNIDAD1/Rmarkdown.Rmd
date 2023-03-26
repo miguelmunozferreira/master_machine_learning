@@ -1,0 +1,10 @@
+---
+title: "Managing and Understanding Data"
+author: "Miguel Angel Muñoz"
+date: '`r format(Sys.Date(),"%e de %B, %Y")`'
+bibliography: scholar.bib
+---
+
+> * Primera toma de contacto con un informe dinámico donde se muestra algunas de sus caracteristicas.
+> * Son diferentes trozos de un libro.
+> * Se lee un archivo csv
